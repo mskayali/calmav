@@ -1,7 +1,10 @@
 name: clamav
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: ClamAV TCP / Unix socket client for Dart.
+version: 0.1.0
+homepage: https://github.com/mskayali/calmav
 repository: https://github.com/mskayali/calmav
+issue_tracker: https://github.com/mskayali/calmav/issues
+
 
 environment:
   sdk: ^3.9.2
