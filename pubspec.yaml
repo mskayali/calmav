@@ -1,0 +1,13 @@
+name: clamav
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+repository: https://github.com/mskayali/calmav
+
+environment:
+  sdk: ^3.9.2
+
+
+dev_dependencies:
+  http: ^1.6.0
+  lints: ^6.0.0
+  test: ^1.25.6
